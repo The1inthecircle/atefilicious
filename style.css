@@ -1,15 +1,17 @@
-h1 {
+heading {
 	background-color:seagreen;
 	text-align:center;
 	font-size:48px;
 	color:white;
 	font-family:"Trebuchet MS";
+	height:96px;
 }
 nav {
 	background-color:mediumseagreen;
 	text-align:center;
 	color:white;
 	font-family:"Trebuchet MS";
+	height:48px;
 body {
 	background-color:white;
 	color:black;
