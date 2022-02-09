@@ -5,14 +5,14 @@ h1 {
 	color: #FFFFFF;
 	font-family:"Trebuchet MS";
 }
+nav {
+	background-color: #069B65;
+	text-align:center;
+	color: #FFFFFF;
+	font-family:"Trebuchet MS";
 body {
 	background-color: #FFFFFF;
 	color: #000000;
 	font-size:36px;
 	text-align:center;
 }
-nav {
-	background-color: #069B65;
-	text-align:center;
-	color: #FFFFFF;
-	font-family:"Trebuchet MS";
