@@ -1,18 +1,18 @@
 h1 {
-	background-color: #07CD84;
+	background-color:seagreen;
 	text-align:center;
 	font-size:48px;
-	color: #FFFFFF;
+	color:white;
 	font-family:"Trebuchet MS";
 }
 nav {
-	background-color: #069B65;
+	background-color:mediumseagreen;
 	text-align:center;
-	color: #FFFFFF;
+	color:white;
 	font-family:"Trebuchet MS";
 body {
-	background-color: #FFFFFF;
-	color: #000000;
+	background-color:white;
+	color:black;
 	font-size:36px;
 	text-align:center;
 }
