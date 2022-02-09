@@ -2,17 +2,17 @@ h1 {
 	background-color: #07CD84;
 	text-align:center;
 	font-size:48px;
-	color:white;
+	color: #FFFFFF;
 	font-family:"Trebuchet MS";
 }
 body {
-	background-color:white;
-	color:black;
+	background-color: #FFFFFF;
+	color: #000000;
 	font-size:36px;
 	text-align:center;
 }
 nav {
 	background-color: #069B65;
 	text-align:center;
-	color:white
+	color: #FFFFFF;
 	font-family:"Trebuchet MS";
