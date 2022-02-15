@@ -4,22 +4,7 @@ header {
 	font-size:48px;
 	color:white;
 	font-family:"Trebuchet MS";
-	height:108px;
-}
-h2 {
-	background-color:seagreen;
-	text-align:center;
-	font-size:48px;
-	color:white;
-	font-family:"Trebuchet MS";
-	height:108px;
-}
-h1 {
-	background-color:seagreen;
-	text-align:center;
-	font-size:48px;
-	color:white;
-	font-family:"Trebuchet MS";
+	padding:0px;
 	height:108px;
 }
 nav {
