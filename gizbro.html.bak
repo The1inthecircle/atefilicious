@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+	<link rel="shortcut icon" href="usa1.ico" />
+	<title>Gizbro</title>
+	
+	<head>
+		<link rel="stylesheet" href="style1.css">
+	</head>
+	
+	<body>
+		<h1>Give me opalescent haze</h1>
+		
+		<img src="gizbro.png" alt="gizbro">
+		
+		<img src="gizbro1.png" alt="opalescent haze"> <img src="gizbro2.png" alt="please gizzy">
+		
+		<h1>Please Gizzy Goblin</h1>
+	</body>
+</html>

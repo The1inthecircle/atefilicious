@@ -1,0 +1,38 @@
+* {
+	color:white;
+}
+header {
+	background-color:seagreen;
+	text-align:center;
+	font-size:72px;
+	color:white;
+	font-family:"Helvetica";
+	padding:0px;
+	height:76px;
+	font-weight: bold;
+}
+body {
+	background-color: Black;
+}
+h1 {
+	color: Azure
+	text-align: center;
+	font: comic sans;
+	size: 48px;
+}
+img {
+	text-align: center;
+}
+nav {
+	background-color:mediumseagreen;
+	text-align:center;
+	color:white;
+	font-family:"Helvetica";
+	height:60px;
+	font-size:48px;
+	padding:0px;
+	float: top;
+	padding-top: 0px;
+	padding-left: 0px;
+	padding-right: 0px;
+}
